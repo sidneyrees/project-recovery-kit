@@ -56,16 +56,19 @@ Client name omitted for confidentiality reasons but I could contact you with the
 
 ## Want More?
 
-- PMO Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
-- Headless Architectures -> https://github.com/sidneyrees/headless-ecommerce-architectures
-- Automation Agents -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Success Stories & Real Cases -> https://github.com/sidneyrees/real-cases-and-success-stories
+- CTO / PMO eCommerce Playbook -> https://github.com/sidneyrees/pmo-ecommerce-playbook
+- Tech Radar -> https://github.com/sidneyrees/ecommerce-tech-radar
+- Automation & AI Agents for eCommerce -> https://github.com/sidneyrees/automation-agents-for-ecommerce
+- Project Recovery Kit -> https://github.com/sidneyrees/project-recovery-kit
 
 ## Is Your Project in Critical Condition?
 
 I can start within 48 hours. Schedule an emergency call: https://www.sidneyrees.com/contact
 
+---
 
-## Let's Connect
+## I can help. Let's talk.
 
 Sidney Rees - Fractional CTO+PMO for eCommerce & Digital Businesses
 
