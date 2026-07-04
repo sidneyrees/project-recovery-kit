@@ -45,7 +45,7 @@ If you don't have time for the full scorecard, these 4 catch the most common fai
 - Infrastructure state (hosting, backups, access/credentials inventory)
 - Data integrity (is the database consistent, is there a working backup)
 - Team/process state (who knows what, where documentation actually lives)
-- A ranked list of the top 5 risks, using the same scoring model as the [Risk Matrix](https://github.com/sidneyrees/pmo-ecommerce-playbook/blob/main/templates/02-risk-matrix.md)
+- A ranked list of the top 5 risks, using the same scoring model as the [Risk Matrix](https://github.com/sidneyrees/pmo-ecommerce-playbook/blob/main/02-risk-matrix.md)
 
 ### Step 2: Stakeholder Mapping & Expectation Reset
 
@@ -54,7 +54,7 @@ If you don't have time for the full scorecard, these 4 catch the most common fai
 - What changes starting now (single point of contact, new reporting cadence)
 - What will NOT change in the next 2 weeks (to reset expectations on speed)
 
-Use the [Weekly Status Report template](https://github.com/sidneyrees/pmo-ecommerce-playbook/blob/main/templates/03-weekly-status-report.md) starting from week one of the reset — consistency rebuilds trust faster than any single announcement.
+Use the [Weekly Status Report template](https://github.com/sidneyrees/pmo-ecommerce-playbook/blob/main/03-weekly-status-report.md) starting from week one of the reset — consistency rebuilds trust faster than any single announcement.
 
 ### Step 3: Stabilization Plan (ship one small thing in 2 weeks)
 
@@ -75,7 +75,7 @@ Use the [Weekly Status Report template](https://github.com/sidneyrees/pmo-ecomme
 ### Step 5: Roadmap to Scalability
 
 **Deliverable:**
-- A revised [Project Charter](https://github.com/sidneyrees/pmo-ecommerce-playbook/blob/main/templates/01-project-charter.md) reflecting the real, current state — not the original one that got the project into trouble
+- A revised [Project Charter](https://github.com/sidneyrees/pmo-ecommerce-playbook/blob/main/01-project-charter.md) reflecting the real, current state — not the original one that got the project into trouble
 - A prioritized backlog with re-baselined estimates
 - A recommendation on whether the current vendor/team should continue, be supplemented, or be replaced
 
@@ -125,5 +125,5 @@ I can start within 48 hours. Schedule an emergency call: https://www.sidneyrees.
 Sidney Rees — Fractional CTO+PMO for eCommerce & Digital Businesses
 
 🌐 https://www.sidneyrees.com
-💼 [LinkedIn](https://www.linkedin.com/in/sidneyrees)
+
 📫 Available for consulting opportunities
