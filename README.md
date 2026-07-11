@@ -120,6 +120,10 @@ I can start within 48 hours. Schedule an emergency call: https://www.sidneyrees.
 
 ---
 
+**Part of the Sidney Rees ecosystem** — 🟡 [Sidney Rees](https://sidneyrees.com) (strategy) · 🔵 [Sigma Reef](https://sigmareef.com) (e-commerce AI) · 🟢 [Cadence Ridge](https://cadenceridge.com) (SMB automation)
+
+---
+
 ## I can help. Let's talk.
 
 Sidney Rees — Fractional CTO+PMO for eCommerce & Digital Businesses
