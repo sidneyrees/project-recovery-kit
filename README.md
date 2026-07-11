@@ -3,6 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Proven%20Methodology-brightgreen)
 ![Success Rate](https://img.shields.io/badge/Success%20Rate-95%25-blue)
 
+Struggling project, unresponsive vendor, moving deadlines? Score it below — then use the same 5-step framework I run with clients to get it back on track.
+
 ## The Project Health Scorecard
 
 The original 4-question diagnostic was a start. Here's the full version — score each 1 (healthy) to 5 (critical), then read your total below.
@@ -106,17 +108,19 @@ Signs a project needs recovery, not just "more time":
 
 *Client name omitted for confidentiality reasons but I could contact you with their director if needed.*
 
-## Want More?
+## Is Your Project in Critical Condition?
+
+I can start within 48 hours. Schedule an emergency call: https://www.sidneyrees.com/contact
+
+<details>
+<summary>More resources</summary>
 
 - Success Stories & Real Cases → https://github.com/sidneyrees/real-cases-and-success-stories
 - CTO / PMO eCommerce Playbook → https://github.com/sidneyrees/pmo-ecommerce-playbook
 - Tech Radar → https://github.com/sidneyrees/ecommerce-tech-radar
 - Automation & AI Agents for eCommerce → https://github.com/sidneyrees/automation-agents-for-ecommerce
-- Project Recovery Kit → https://github.com/sidneyrees/project-recovery-kit
 
-## Is Your Project in Critical Condition?
-
-I can start within 48 hours. Schedule an emergency call: https://www.sidneyrees.com/contact
+</details>
 
 ---
 
