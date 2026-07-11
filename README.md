@@ -1,7 +1,9 @@
+![Sidney Rees — Fractional CTO+PMO for eCommerce](https://raw.githubusercontent.com/sidneyrees/sidneyrees/main/assets/banner.png)
+
 # 🚑 The Project Recovery Kit
 
-![Status](https://img.shields.io/badge/Status-Proven%20Methodology-brightgreen)
-![Success Rate](https://img.shields.io/badge/Success%20Rate-95%25-blue)
+![Status](https://img.shields.io/badge/Status-Proven%20Methodology-D9A441)
+![Success Rate](https://img.shields.io/badge/Success%20Rate-95%25-D9A441)
 
 Struggling project, unresponsive vendor, moving deadlines? Score it below — then use the same 5-step framework I run with clients to get it back on track.
 
@@ -124,7 +126,18 @@ I can start within 48 hours. Schedule an emergency call: https://www.sidneyrees.
 
 ---
 
-**Part of the Sidney Rees ecosystem** — 🟡 [Sidney Rees](https://sidneyrees.com) (strategy) · 🔵 [Sigma Reef](https://sigmareef.com) (e-commerce AI) · 🟢 [Cadence Ridge](https://cadenceridge.com) (SMB automation)
+```mermaid
+flowchart LR
+    A["🔵 Sigma Reef<br/>E-commerce AI & Automation"]
+    B["🟡 Sidney Rees<br/>Authority & Strategy"]
+    C["🟢 Cadence Ridge<br/>SMB Automation & AI Agents"]
+    A --- B --- C
+    style A fill:#2452C4,stroke:#17337a,color:#ffffff
+    style B fill:#D9A441,stroke:#8a6a1f,color:#111111
+    style C fill:#14A897,stroke:#0c6359,color:#111111
+```
+
+🔵 [Sigma Reef](https://sigmareef.com) · 🟡 [Sidney Rees](https://sidneyrees.com) · 🟢 [Cadence Ridge](https://cadenceridge.com)
 
 ---
 
